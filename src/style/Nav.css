@@ -1,0 +1,8 @@
+.my-nav {
+    display: flex;
+    height: 80px;
+    align-items: center;
+    width: 50%;
+    min-width: 300px;
+    justify-content: space-between;  
+}
